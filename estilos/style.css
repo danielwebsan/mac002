@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+/* ESTILO PARA A TELA DE RETRATO (TODAS TELA)*/
+*{
+    margin:0px;
+    padding: 0px;
+}
+html, body{
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+h1{
+    
+    color: white;
+    margin-top : 10px;
+    margin-left: 20px;
+}

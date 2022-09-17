@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/* ESTILO PARA A TELA DE RETRATO (LANDSCAPE)*/
+
+html,body{
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-image: url('../imagens/cev-landscape.jpg');
+    
+}
+h1{
+    background-image: linear-gradient(to right, gray, blue);
+    padding: 10px;
+}
